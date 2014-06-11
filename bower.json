@@ -18,6 +18,8 @@
   ],
   "dependencies": {
     "react": "~0.10.0",
-    "fluxxor": "~1.2.0"
+    "fluxxor": "~1.2.0",
+    "requirejs-text": "~2.0.12",
+    "requirejs-jsx": "*"
   }
 }
